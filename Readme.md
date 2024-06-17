@@ -5,6 +5,10 @@
 ## Games 
 ### Color blast
 2 mins Multiplayer Online game
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_LvNUONpVgwlimf9/0.jpg)](https://www.youtube.com/watch?v=_LvNUONpVgwlimf9)
+
+
 https://youtu.be/VNBjhObhSVw?si=_LvNUONpVgwlimf9
 https://youtu.be/0w-iUVP8WQo?si=YeYICMYDq3YyWAZF
 https://youtu.be/v7UVbaw-B8U?si=nEL9BoKuMEovKBdo
