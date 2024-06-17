@@ -4,16 +4,20 @@
 
 ## Games 
 ### Color blast
-2 mins Multiplayer Online game
+2 mins Multiplayer Online game.
+
 Gameplay: 
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/0w-iUVP8WQo)](https://youtu.be/0w-iUVP8WQo)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0w-iUVP8WQo/0.jpg)](https://www.youtube.com/watch?v=0w-iUVP8WQo)
+Gameplay #2:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v7UVbaw-B8U/0.jpg)](https://www.youtube.com/watch?v=v7UVbaw-B8U)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/v7UVbaw-B8U)](https://youtu.be/v7UVbaw-B8U)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VNBjhObhSVw/0.jpg)](https://www.youtube.com/watch?v=VNBjhObhSVw)
+User video #3:
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/VNBjhObhSVw)](https://youtu.be/VNBjhObhSVw)
+
 
 Reviews:
 
