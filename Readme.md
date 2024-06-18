@@ -1,4 +1,12 @@
-## Cosmos News - Entity Knowledge based News App
+# Mobile Apps Showcase 
+
+Below are apps I have dabbled with over the years. Some are quite sophisticated AI backed apps and some are simple games I wanted kids to play.
+While the windows phone is dead now, I maintain this as a reminder of past ideas. 
+
+
+## 1. Cosmos News - Entity Knowledge based News App
+
+![image](https://github.com/lsati/wp10-apps-directory/assets/169436011/302bf42c-7013-4f03-a473-bac4bb7b798e)
 
 We are information beings who require a steady diet of information for a sane existence. However, like junk food, excessive or poor-quality information can lead to problems, creating a new kind of ignorance due to information overload.
 
@@ -6,12 +14,13 @@ Cosmos's mission is to solve this problem by providing a new way for users to co
 
 Cosmos differentiates by focusing on "Entities" rather than broad "Categories." Users are interested in specific, tangible entities within a category, not the category itself. This approach aims to streamline information consumption by centering on the entities users care about, reducing the clutter of irrelevant links.
 
+
 [![](https://markdown-videos-api.jorgenkh.no/youtube/KU-oCrg9pt8)](https://youtu.be/KU-oCrg9pt8)
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/videoid)](https://youtu.be/videoid)
 
 ## Games 
-### Color blast
+### 1. Color blast
 2 mins Multiplayer Online game.
 
 Gameplay: 
