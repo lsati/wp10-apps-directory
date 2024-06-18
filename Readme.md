@@ -1,6 +1,14 @@
 ## Cosmos News - Entity Knowledge based News App
 
+We are information beings who require a steady diet of information for a sane existence. However, like junk food, excessive or poor-quality information can lead to problems, creating a new kind of ignorance due to information overload.
 
+Cosmos's mission is to solve this problem by providing a new way for users to consume manageable chunks of information, focusing on knowledge rather than amassing disjointed tidbits.
+
+Cosmos differentiates by focusing on "Entities" rather than broad "Categories." Users are interested in specific, tangible entities within a category, not the category itself. This approach aims to streamline information consumption by centering on the entities users care about, reducing the clutter of irrelevant links.
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/KU-oCrg9pt8)](https://youtu.be/KU-oCrg9pt8)
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/videoid)](https://youtu.be/videoid)
 
 ## Games 
 ### Color blast
